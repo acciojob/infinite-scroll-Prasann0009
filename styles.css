@@ -1,20 +1,20 @@
- #scrollContainer
+ #infi-list
  {
    height: 300px;
    width: 200px;
    border: 2px solid black;
    overflow-x: scroll;
  }
- #scrollContainer>li
+ #infi-list>li
  {
   padding: 10px 0px;
   list-style-type: none;
  }
- #scrollContainer>li:hover{
+ #infi-list>li:hover{
   color: white;
   background-color: gray;
  }
- #scrollContainer::-webkit-scrollbar
+ #infi-list::-webkit-scrollbar
  {
   display: none;
  }

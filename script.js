@@ -1,4 +1,4 @@
-const scrollContainer = document.getElementById("scrollContainer");
+const scrollContainer = document.getElementById("infi-list");
 
 let elementNumber = 1;
 
